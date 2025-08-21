@@ -9,13 +9,25 @@
 <table>
   <tr>
     <td>
+      <strong>🍿 Pop Corn</strong><br/>
+      Simple popcorn "pop" simulated by switching between two meshes through a visibility tag.<br/><br/>
+      <video src="https://github.com/user-attachments/assets/28824fb7-88dd-428f-acde-2a02bd89243c" width="320" controls></video>
+    </td>
+    <td>
+      <strong>🖼️ Texture Destroyer</strong><br/>
+     Simple dissolve & destroy effect on a texture using the Texture Sample node<br/><br/>
+      <video src="https://github.com/user-attachments/assets/ebb4474e-d17a-4178-a32a-84a6cadb2554" width="320" controls></video>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <strong>🎆 Fireworks</strong><br/>
       Simple fireworks VFX using 3 emitters (projectile, trail, and explosion) and Niagara events (location and death) to link them together. This is the rough result.<br/><br/>
       <video src="https://github.com/user-attachments/assets/0956ee41-9143-4d61-8a7d-30858ed477f0" width="320" controls></video>
     </td>
     <td>
       <strong>🌋 Erode</strong><br/>
-      A simple Unreal material, which simulates surface erosion using a noise texture, the step node, and an opacity mask..<br/><br/>
+      A simple Unreal material, which simulates surface erosion using a noise texture, the step node, and an opacity mask.<br/><br/>
       <video src="https://github.com/user-attachments/assets/29446db7-55f7-4edf-b840-3973ba2af286" width="320" controls></video>
     </td>
   </tr>
